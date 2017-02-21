@@ -1,7 +1,7 @@
 body{
   font-size: small;
   font-family: arial, sans-serif;
-  marin:0;
+  margin:0;
   padding:0;
 }
 a{
@@ -15,7 +15,8 @@ height:233px;
   display: block;
 padding-top:109px
 }
-center{display: block;
+center{
+  display: block;
   text-align:center;
 }
 .search{
@@ -29,4 +30,3 @@ center{display: block;
   max-width: none;
   width: 833px;
 }
-  
